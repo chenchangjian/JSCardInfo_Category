@@ -1,0 +1,7 @@
+JSCardInfo_Category.xcodeproj/xcuserdata/
+JSCardInfo_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+JSCardInfo_Category.xcodeproj/project.xcworkspace/xcuserdata/
